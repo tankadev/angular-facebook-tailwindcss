@@ -15,6 +15,9 @@ module.exports = {
           'dark-txt': '#B8BBBF'
         }
       },
+      borderWidth: {
+        '3': '3px'
+      }
     },
     variants: {
       extend: {},
