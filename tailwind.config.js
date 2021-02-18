@@ -12,6 +12,7 @@ module.exports = {
           'dark-main': '#18191A',
           'dark-second': '#242526',
           'dark-third': '#3A3B3C',
+          'dark-fourth': '#535557',
           'dark-txt': '#B8BBBF'
         }
       },
